@@ -88,8 +88,6 @@ collaborators:
   #   permission: pull
   - username: yun-vis
     permission: push
-  - username: ViktorHofer
-    permission: push
 
   # Note: `permission` is only valid on organization-owned repositories.
   # The permission to grant the collaborator. Can be one of:
